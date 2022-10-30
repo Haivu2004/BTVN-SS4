@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+
+    text-align: center;
+    width: 80%;
+    
+    
+ flex-wrap: wrap;
+    background-color: blanchedalmond;
+    
+    
+}
+.flex-item{
+    
+    height: 30%;
+    background-color: red;
+    margin: 20px;
+   
+    text-align: center;
+}
